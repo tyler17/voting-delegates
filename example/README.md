@@ -1,5 +1,6 @@
 ---
 name: Lee Robinson
+picture: profile.jpg
 ---
 
 
