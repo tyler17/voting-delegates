@@ -1,7 +1,7 @@
 ---
 name: Lee Robinson
-picture: profile.jpg
 url: https://forum.makerdao.com/u/example
+profile_url: https://images.com/image.jpeg
 ---
 
 
