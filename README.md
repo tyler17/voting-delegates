@@ -7,7 +7,7 @@ List of voting delegates.
 
 ## Adding a new delegate
 
-Copy and paste the example folder inside the "delegates" folder and rename it to the contract address of the delegate:
+Copy and paste the 0x00..00 folder inside the "delegates" folder and rename it to the contract address of the delegate:
 
 ```
 - delegates
