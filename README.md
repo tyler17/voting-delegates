@@ -23,6 +23,7 @@ Profile information will be generated from the header of the document.
 ---
 name: Lee Robinson
 picture: profile.jpg
+url: https://forum.makerdao.com/u/example
 ---
 
 
