@@ -16,8 +16,12 @@ Copy and paste the 0x00..00 folder inside the "delegates" folder and rename it t
         - README.md
 ```
 
+
 README.md should follow the format of the example folder. 
-profile.png / profile.jpg wil be the profile picture of the delegate. A profile_url field can be also used on the headers of the README.md file alternatively
+
+- profile.png / profile.jpg wil be the profile picture of the delegate. 
+  - A profile_picture_url field can be also used on the headers of the README.md file alternatively
+- url: External link with information of the delegate
 Profile information will be generated from the header of the document.
 
 
@@ -26,7 +30,7 @@ Profile information will be generated from the header of the document.
 ---
 name: Lee Robinson
 url: https://forum.makerdao.com/u/example
-profile_url: https://images.com/image.jpeg
+profile_picture_url: https://images.com/image.jpeg
 ---
 
 
