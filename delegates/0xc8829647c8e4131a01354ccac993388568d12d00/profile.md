@@ -1,7 +1,6 @@
 ---
 name: Lee Robinson
 url: https://forum.makerdao.com/u/example
-profile_picture_url: https://images.com/image.jpeg
 ---
 
 # Delegate Name
