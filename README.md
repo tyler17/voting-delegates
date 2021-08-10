@@ -12,14 +12,14 @@ Copy and paste the 0x00..00 folder inside the "delegates" folder and rename it t
 ```
 - delegates
     [delegate-address]
-        - profile.png
-        - README.md
+        - avatar.png
+        - profile.md
 ```
 
 
-README.md should follow the format of the example folder. 
+profile.md should follow the format of the example folder. 
 
-- profile.png / profile.jpg wil be the profile picture of the delegate. 
+- avatar.png / avatar.jpg wil be the profile picture of the delegate. 
   - A profile_picture_url field can be also used on the headers of the README.md file alternatively
 - url: External link with information of the delegate
 Profile information will be generated from the header of the document.
