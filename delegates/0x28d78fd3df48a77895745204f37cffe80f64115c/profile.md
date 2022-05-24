@@ -1,6 +1,9 @@
 ---
 name: Lee Robinson
 url: https://forum.makerdao.com/u/example
+tags:
+   - academia
+   - community
 ---
 
 # Delegate Name
