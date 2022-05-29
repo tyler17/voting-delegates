@@ -2,8 +2,9 @@
 name: Lee Robinson
 url: https://forum.makerdao.com/u/example
 tags:
-   - academia
-   - community
+   - responsibility
+   - sustainability
+   - decentralization
 ---
 
 # Delegate Name
